@@ -8,7 +8,7 @@ This project analyses the results of an A/B test run by an e-commerce website. T
 - Clone or download the repository.
 
 ### Prerequisites
-- Python
+- Python (3.6)
 - Pandas
 - Numpy
 - Matplotlib
